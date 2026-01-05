@@ -1,7 +1,7 @@
 # 🛡️ SOC Task 2: Log Analysis & Incident Response
 
 ### 🚨 Overview
-This project simulates the workflow of a **Tier 1 SOC Analyst**. The objective was to ingest raw system logs into a SIEM (Security Information and Event Management) solution, detect potential security threats, and formulate a comprehensive Incident Response Report.
+The objective was to ingest raw system logs into a SIEM (Security Information and Event Management) solution, detect potential security threats, and formulate a comprehensive Incident Response Report.
 
 Using the **Elastic Stack (ELK)** running on **Docker**, I analyzed simulated network traffic to identify high-severity incidents including Ransomware, Rootkits, and Brute Force attacks.
 
